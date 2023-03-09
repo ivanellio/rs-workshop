@@ -1,3 +1,5 @@
 exmp text
-changes from master - new changes!!!!
-
+changes from master
+new changes!!!!
+changes from first
+>>>>>>> ff16365 (header mod, footer.txt add)
